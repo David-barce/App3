@@ -36,7 +36,7 @@ namespace App3.ViewModels
 
         public string ApMaterno
         {
-            get => ApMaterno;
+            get => ap2;
             set
             {
                 if (String.Equals(ap2, value)) return;
